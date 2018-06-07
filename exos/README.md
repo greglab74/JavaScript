@@ -14,7 +14,7 @@
 
 ### EX 2
 
-Dans le code suivant : [Ex JS{:target="_blank"}](https://codepen.io/webew/pen/KRmpRV) <a href='https://codepen.io/webew/pen/KRmpRV' target='_blank'>Ex JS</a>
+Dans le code suivant : <a href='https://codepen.io/webew/pen/KRmpRV' target='_blank'>Ex JS</a>
 
 - Modifiez la couleur du texte avec Javascript. Il doit y avoir plusieurs façons de faire...
 - Modifiez la position du texte avec Javascript.
