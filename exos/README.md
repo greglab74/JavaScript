@@ -1,5 +1,15 @@
 # JS
 
+
+### EX 1
+
+Dans le code suivant : <a href='https://codepen.io/SimplonCharleville/pen/ERgOvw' target='_blank'>Ex JS</a>
+
+- Essayez de prévoir les valeurs finales de chaque variable
+- Vérifier
+
+<hr>
+
 ### EX 1
 
 - Créer une div dans une page.
