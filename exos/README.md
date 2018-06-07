@@ -10,7 +10,30 @@ Dans le code suivant : <a href='https://codepen.io/SimplonCharleville/pen/aKmXOb
 
 <hr>
 
-### EX 1
+
+### EX 2
+
+Créer un fichier .js dans lequel :
+
+- Vous déclarez une variable demandant "Votre prénom" (utilisez prompt)
+- Afficher le texte "Bonjour <prénom saisi>" dans une boite d'alerte
+
+<hr>
+
+### EX 3
+
+Créer un fichier .js dans lequel vous demandez le prix HT et vous affichez ensuite le prix TTC (+20%)
+
+<hr>
+
+### EX 4
+
+Créer un fichier .js dans lequel vous demander la température en °C et vous affichez ensuite la température en °F
+Formule : °F = (°C x 1,8) + 32
+
+<hr>
+
+### EX 5
 
 - Créer une div dans une page.
 - Déclarer une variable monDiv et lui affecter la div créée précédemment.
@@ -22,7 +45,7 @@ Dans le code suivant : <a href='https://codepen.io/SimplonCharleville/pen/aKmXOb
 
 <hr>
 
-### EX 2
+### EX 6
 
 Dans le code suivant : <a href='https://codepen.io/SimplonCharleville/pen/ERgOvw' target='_blank'>Ex JS</a>
 
@@ -33,7 +56,7 @@ Dans le code suivant : <a href='https://codepen.io/SimplonCharleville/pen/ERgOvw
 
 <hr>
 
-### EX 3
+### EX 7
 
 - Créer 3 div contenant du texte.
 - Sans ajout d'id ou de classe, colorer la 1ère div en rouge, la 2ème en vert et la 3ème en bleu.
@@ -41,7 +64,7 @@ Dans le code suivant : <a href='https://codepen.io/SimplonCharleville/pen/ERgOvw
 
 <hr>
 
-### EX 4
+### EX 8
 
 - Créez une page affichant une image. Plusieurs méthodes...
 - Affichez la source de l'image dans la console.
@@ -50,7 +73,7 @@ Dans le code suivant : <a href='https://codepen.io/SimplonCharleville/pen/ERgOvw
 
 <hr>
 
-### EX 5
+### EX 9
 
 - Observez le fonctionnement du code suivant : <a href='https://codepen.io/SimplonCharleville/pen/NzREBG' target='_blank'>JS mouse enter</a>
 - On souhaite plusieurs améliorations:
@@ -60,7 +83,7 @@ Dans le code suivant : <a href='https://codepen.io/SimplonCharleville/pen/ERgOvw
   
 <hr>
 
-### EX 6
+### EX 10
 
 - Uniquement en Javascript, créez 2 paragraphes contenant du texte.
 - Stockez les 2 éléments dans des variables.
