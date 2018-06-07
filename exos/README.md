@@ -3,7 +3,7 @@
 
 ### EX 1
 
-Dans le code suivant : <a href='https://codepen.io/SimplonCharleville/pen/aKmXOb' target='_blank'>Valeurs des variables/a>
+Dans le code suivant : <a href='https://codepen.io/SimplonCharleville/pen/aKmXOb' target='_blank'>Valeurs des variables</a>
 
 - Essayez de prévoir les valeurs finales de chaque variable
 - Vérifier la valeur des variables
