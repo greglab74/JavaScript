@@ -4,6 +4,18 @@
 
 ### EX 1
 
+- Créer une div dans une page.
+- Déclarer une variable monDiv et lui affecter la div créée précédemment.
+- Afficher la variable monDiv dans la console.
+- En Javascript, ajouter un attribut id à cet élément et lui donner une valeur.
+- Afficher la variable dans la console.
+- Créer une classe Css maClasse avec quelques propriétés.
+- En Javascript, ajouter la classe maClasse à l'élément monDiv.
+
+<hr>
+
+### EX 2
+
 Dans le code suivant : <a href='https://codepen.io/webew/pen/KRmpRV' target='_blank'>Ex JS</a>
 
 - Modifiez la couleur du texte avec Javascript. Il doit y avoir plusieurs façons de faire...
@@ -13,23 +25,11 @@ Dans le code suivant : <a href='https://codepen.io/webew/pen/KRmpRV' target='_bl
 
 <hr>
 
-### EX 2
+### EX 3
 
 - Créer 3 div contenant du texte.
 - Sans ajout d'id ou de classe, colorer la 1ère div en rouge, la 2ème en vert et la 3ème en bleu.
 - Faites en sorte que les 3 div se positionnent horizontalement.
-
-<hr>
-
-### EX 3
-
-- Créer une div dans une page.
-- Déclarer une variable monDiv et lui affecter la div créée précédemment.
-- Afficher la variable monDiv dans la console.
-- En Javascript, ajouter un attribut id à cet élément et lui donner une valeur.
-- Afficher la variable dans la console.
-- Créer une classe Css maClasse avec quelques propriétés.
-- En Javascript, ajouter la classe maClasse à l'élément monDiv.
 
 <hr>
 
