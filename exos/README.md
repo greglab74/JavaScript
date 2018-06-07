@@ -1,7 +1,5 @@
 # JS
 
-## Exercices de manipulation du DOM
-
 ### EX 1
 
 - Créer une div dans une page.
