@@ -29,6 +29,7 @@ Créer un fichier .js dans lequel vous demandez le prix HT et vous affichez ensu
 ### EX 4
 
 Créer un fichier .js dans lequel vous demander la température en °C et vous affichez ensuite la température en °F
+
 Formule : °F = (°C x 1,8) + 32
 
 <hr>
