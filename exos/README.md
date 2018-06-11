@@ -36,7 +36,7 @@ Formule : °F = (°C x 1,8) + 32
 
 ### EX 5
 
-- Créer une div dans une page.
+- Créer un div dans une page.
 - Déclarer une variable monDiv et lui affecter la div créée précédemment.
 - Afficher la variable monDiv dans la console.
 - En Javascript, ajouter un attribut id à cet élément et lui donner une valeur.
