@@ -77,7 +77,7 @@ Dans le code suivant : <a href='https://codepen.io/SimplonCharleville/pen/ERgOvw
 ### EX 9
 
 - Observez le fonctionnement du code suivant : <a href='https://codepen.io/SimplonCharleville/pen/NzREBG' target='_blank'>JS mouse enter</a>
-- On souhaite plusieurs améliorations:
+- On souhaite plusieurs améliorations :
   - La couleur doit revenir à l'état initial lorsque la souris sort de l'élément h1.
   - Le survol ne doit se déclencher que sur le texte, pas sur toute la largeur de l'écran.
   - Une animation sur le texte doit se déclencher lorsqu'on clique dessus.
