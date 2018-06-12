@@ -36,4 +36,4 @@ En allant de 20 à 0 avec un pas de 1, afficher le message **C'est presque bon**
 En allant de 1 à 100 avec un pas de 15, afficher le message **On tient le bon bout**.
 
 ##Exercice 8
-En allant de 200 à 0 avec un pas de 12, afficher le message **Enfin !!!!**.
+En allant de 200 à 0 avec un pas de 15, afficher le message **Enfin !!!!**.
