@@ -32,7 +32,7 @@ Avec le tableau de l'exercice 1, modifier le mois de **aout** pour lui ajouter l
 Avec le tableau de l'exercice 1, afficher toutes les valeurs de ce tableau.
 
 ##Exercice 7
-Récuperer le fichier array/app.js;
+Récuperer le fichier app.js;
 
 ##Exercice 8
 Rajouter "Courgette" au tableau array;
