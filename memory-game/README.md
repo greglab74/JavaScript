@@ -1,8 +1,9 @@
 # Développement d'un jeu de mémoire
 
-![Exemple memory game](http://cdn.shopify.com/s/files/1/0322/7017/products/SLM-225_B_large.jpg?v=1396120490)
-
 ## But : retrouver toutes les paires en un minimum de temps.
+
+## Exemple
+![Exemple memory game](http://cdn.shopify.com/s/files/1/0322/7017/products/SLM-225_B_large.jpg?v=1396120490)
 
 ### Principe du jeu :
 * 20 cases (5x4)
