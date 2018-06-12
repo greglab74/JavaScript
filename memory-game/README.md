@@ -1,8 +1,8 @@
-#Développement d'un jeu de mémoire
+# Développement d'un jeu de mémoire
 
-##But : retrouver toutes les paires en un minimum de temps.
+## But : retrouver toutes les paires en un minimum de temps.
 
-###Principe du jeu :
+### Principe du jeu :
 * 20 cases (5x4)
 * si une paire n’est pas trouvée, les photos se retournent
 * si une paire est trouvée, les photos restent affichées
