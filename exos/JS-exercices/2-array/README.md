@@ -46,5 +46,5 @@ Retirer "Cerise";
 ##Exercice 11
 Rajouter "Poire" en index 2 du tableau array;
 
-* Forkez le repo !
+* Nouveau repo !
 * Des que vous validé une étape, ajoutez le et commitez le.
