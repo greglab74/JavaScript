@@ -36,6 +36,7 @@
 
 
 ### Bonus :
+* responsive
 * ajout d'un compteur de clics (avec affichage du nombre à la fin du jeu)
 * validation du formulaire en Ajax avec récapitulatif des données saisies à la place du formulaire et saisie des données en DB (vous ajouterez le diagramme UML au dossier)
 * sécurisation des données saisies en DB
