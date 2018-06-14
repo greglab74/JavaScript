@@ -11,19 +11,20 @@
 * si une paire est trouvée, les photos restent affichées
 * un timer pour savoir en combien de temps le participant a terminé le jeu
 * le jeu est inactif au départ. Un bouton “Start” active le jeu et le timer
-* à la fin du jeu, on affiche le temps et un formulaire qui permet au participant de valider sa participation :
-  * de la civilité
-  * du nom
-  * du prénom
-  * de l’adresse e-mail
-  * du temps
+* à la fin du jeu, on affiche le temps et un formulaire qui permet au participant de valider sa participation, avec :
+  * la civilité
+  * le nom
+  * le prénom
+  * l’adresse e-mail
+  * le temps
 * validation du formulaire en Ajax avec récapitulatif des données saisies à la place du formulaire (pas de saisie en DB)
 
 
 ### Spécifications
 * développer la page en HTML/CSS
 * programmer le jeu en JS
-* libre choix des images doivent être en rapport avec le thème choisi
+* PHP pour le bonus de saisie en DB
+* libre choix des images qui doivent être en rapport avec le thème choisi
 
 ### Chaque groupe doit rendre :
 * les user stories (Trello)
