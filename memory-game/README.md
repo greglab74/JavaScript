@@ -12,11 +12,11 @@
 * un timer pour savoir en combien de temps le participant a terminé le jeu
 * le jeu est inactif au départ. Un bouton “Start” active le jeu et le timer
 * à la fin du jeu, on affiche le temps et un formulaire qui permet au participant de valider sa participation :
-- de la civilité
-- du nom
-- du prénom
-- de l’adresse e-mail
-- du temps
+  * de la civilité
+  * du nom
+  * du prénom
+  * de l’adresse e-mail
+  * du temps
 * validation du formulaire en Ajax avec récapitulatif des données saisies à la place du formulaire (pas de saisie en DB)
 
 
