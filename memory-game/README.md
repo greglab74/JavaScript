@@ -23,12 +23,16 @@
 ### Spécifications
 * développer la page en HTML/CSS
 * programmer le jeu en JS
+* libre choix des images doivent être en rapport avec le thème choisi
 
 ### Chaque groupe doit rendre :
 * les user stories (Trello)
-* le cahier des charges (avec wireframes)
+* le dossier du projet (avec wireframes)
 * le lien GitHub du code
 * le code sera commenté
 
 
-### Bonus : ajouter un compteur de clics
+### Bonus :
+* ajout d'un compteur de clics (avec affichage du nomlbre à la fin du jeu
+* saisie des données en DB (vous ajouterez le diagramme UML au dossier)
+* limiter la participation (saisie en DB) à 2 par adresse e-mail
