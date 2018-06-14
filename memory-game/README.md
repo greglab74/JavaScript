@@ -24,7 +24,7 @@
 
 ### Spécifications
 * développer la page en HTML/CSS
-* programmer le jeu en JS
+* programmer le jeu en JS natif
 * PHP + MySQLI ou PDO pour le bonus de saisie en DB
 * libre choix des images qui doivent être en rapport avec le thème choisi
 
