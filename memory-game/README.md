@@ -1,5 +1,7 @@
 # Développement d'un jeu de mémoire (par groupe de 4)
 
+## Présentation lundi 18/06
+
 ## But : retrouver toutes les paires en un minimum de temps.
 
 ### Exemple :
