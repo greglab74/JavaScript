@@ -1,4 +1,4 @@
-# Développement d'un jeu de mémoire (par groupe de 2)
+# Développement d'un jeu de mémoire (par groupe de 4)
 
 ## But : retrouver toutes les paires en un minimum de temps.
 
