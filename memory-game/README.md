@@ -36,5 +36,5 @@
 ### Bonus :
 * ajout d'un compteur de clics (avec affichage du nombre à la fin du jeu)
 * saisie des données en DB (vous ajouterez le diagramme UML au dossier)
-* sécurisation les données saisies en DB
+* sécurisation des données saisies en DB
 * limiter la participation (saisie en DB) à 2 par adresse e-mail : un message indiquera que le participant à déjà joué 2 fois
