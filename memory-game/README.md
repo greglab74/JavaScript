@@ -23,7 +23,7 @@
 ### Spécifications
 * développer la page en HTML/CSS
 * programmer le jeu en JS
-* PHP pour le bonus de saisie en DB
+* PHP + MySQLI ou PDO pour le bonus de saisie en DB
 * libre choix des images qui doivent être en rapport avec le thème choisi
 
 ### Chaque groupe doit rendre :
@@ -34,6 +34,7 @@
 
 
 ### Bonus :
-* ajout d'un compteur de clics (avec affichage du nomlbre à la fin du jeu
+* ajout d'un compteur de clics (avec affichage du nombre à la fin du jeu)
 * saisie des données en DB (vous ajouterez le diagramme UML au dossier)
-* limiter la participation (saisie en DB) à 2 par adresse e-mail
+* sécurisation les données saisies en DB
+* limiter la participation (saisie en DB) à 2 par adresse e-mail : un message indiquera que le participant à déjà joué 2 fois
