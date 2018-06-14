@@ -9,6 +9,7 @@
 
 ### Principe du jeu :
 * 20 cases (5x4)
+* les paires sont positionnées de façon aléatoires au chargement de la page
 * si une paire n’est pas trouvée, les photos se retournent
 * si une paire est trouvée, les photos restent affichées
 * un timer pour savoir en combien de temps le participant a terminé le jeu
