@@ -156,4 +156,4 @@ Et voilà c'est fini, on a fini de setup notre application. Libre à vous d'ajou
 
 ## Copyright
 
-© Rodolpe D. pour Simplon.co, 2016.
+© Rodolpe D. pour Simplon.co.
