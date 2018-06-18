@@ -2,13 +2,13 @@
 
 Ce projet à pour but de vous faire mieux comprendre la manipulation basique du DOM en créant programme ! Un peu comme Microsoft Paint.
 
-Notre fichier `index.html` a 5400 divs à l'interieur. Les divs sont de petits carrés noirs. Ces carrés representent chaque pixels de notre programme. On ne se preoccupera pas du HTML & du CSS. Juste notre fichier nommé app.js
+Notre fichier `index.html` a 5400 divs à l'interieur. Les divs sont de petits carrés noirs. Ces carrés representent chaque pixels de notre programme. On ne se preoccupera pas du HTML & du CSS. Juste notre fichier nommé scripts.js
 
 # Etape 1 - Add Class
 
 La première chose a faire à nos «pixels»  est de changer la couleur. Ces petits gars seront les blocs de construction de notre œuvre d'art. Avec  la v1 de notre application, nous allons juste faire des pixels noirs et blancs. Non pas parce que nous ne pouvons pas avoir des couleurs, mais nous aurons besoin de créer quelques fonctionnalités pour la v2 ?
 
-- Initialiser notre fichier `app.js`  par le chargement du document quand il est prêt.
+- Initialiser notre fichier `scripts.js`  par le chargement du document quand il est prêt.
 
 ``` javascript
   $(document).ready(function() {
@@ -29,7 +29,7 @@ Tout votre code va se situer entre ces lignes de code.
 
 ```
 
-Notre fichier style.css a une classe nommée white. Tout ce qu'elle fait est de changer l'arrière-plan des boîtes du noir au blanc.
+Notre fichier styles.css a une classe nommée white. Tout ce qu'elle fait est de changer l'arrière-plan des boîtes du noir au blanc.
 
 En théorie, cela changerait la boîte noire au clique en boîte white, mais que se passe-t-il quand on essaye ?
 Il semble que lorsque l'on clique sur une box, toutes nos boîtes se changent en blanc!
